@@ -4,6 +4,25 @@
 
 This project gives you the opportunity to use electronics to create a quick reaction game that you will program using Python. If you have little or no experience of creating circuits do not worry, this guide will walk you through it and by the end you will have a fun game to play with your friends.
 
+## Step -1: Setting up screen sharing
+
+In the previous exercise you all got used to using terminal emulation which was all well and good in the 80s when we didn't have fancy graphics, but it's 2014 and really we should be able to use a mouse and see images and things.  You don't all have a monitor attached to your RaspberryPi's though so we'll cheat and use your laptop as a pretend monitor using screen sharing via a protocol called VNC.
+
+You should find a VNC client on your desktops in a folder called
+	
+	Kids/tightvnc/tightvncviewer
+
+You'll want to open this and run the program.  When your RaspberryPi is all put together, wait about 30 seconds then try and log into it using the following information
+
+	Host: 192.168.137.2::5900
+	Password: raspberry
+
+If it works you should get something like this
+
+![](vnc-osx-connected.png)
+
+which is the RaspberryPi's desktop screen.  From here on in you can follow the rest of these instructions.
+
 ## Step 0: Setting up your Raspberry Pi
 
 You will need to set up your Raspberry Pi to take part in this activity. See the [Raspberry Pi Start Guide here](http://www.raspberrypi.org/help/quick-start-guide/) to get you up and running.
