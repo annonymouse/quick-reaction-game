@@ -212,6 +212,7 @@ Wouldn't it be better if the program told you who has won instead of just which 
 ## Things to try:
 
 - Add scores for both players that accumilate over a number of rounds.
+- Tweet your results? See [ideoforms](https://github.com/ideoforms/python-twitter-examples/blob/master/twitter-oauth-post.py) for sample code you could try :)
 
 ## Community
 
