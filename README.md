@@ -11,6 +11,8 @@ In the previous exercise you all got used to using terminal emulation which was 
 You should find a VNC client on your desktops in a folder called
 	
 	Kids/tightvnc/tightvncviewer
+	
+If you can't find this download it from [here](http://www.tightvnc.com/download.php).
 
 You'll want to open this and run the program.  When your RaspberryPi is all put together, wait about 30 seconds then try and log into it using the following information
 
